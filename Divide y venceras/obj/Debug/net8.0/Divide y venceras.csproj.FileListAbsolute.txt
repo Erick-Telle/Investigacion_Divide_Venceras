@@ -1,0 +1,15 @@
+C:\Users\lolv7\source\repos\Divide y venceras\Divide y venceras\bin\Debug\net8.0\Divide y venceras.exe
+C:\Users\lolv7\source\repos\Divide y venceras\Divide y venceras\bin\Debug\net8.0\Divide y venceras.deps.json
+C:\Users\lolv7\source\repos\Divide y venceras\Divide y venceras\bin\Debug\net8.0\Divide y venceras.runtimeconfig.json
+C:\Users\lolv7\source\repos\Divide y venceras\Divide y venceras\bin\Debug\net8.0\Divide y venceras.dll
+C:\Users\lolv7\source\repos\Divide y venceras\Divide y venceras\bin\Debug\net8.0\Divide y venceras.pdb
+C:\Users\lolv7\source\repos\Divide y venceras\Divide y venceras\obj\Debug\net8.0\Divide y venceras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lolv7\source\repos\Divide y venceras\Divide y venceras\obj\Debug\net8.0\Divide y venceras.AssemblyInfoInputs.cache
+C:\Users\lolv7\source\repos\Divide y venceras\Divide y venceras\obj\Debug\net8.0\Divide y venceras.AssemblyInfo.cs
+C:\Users\lolv7\source\repos\Divide y venceras\Divide y venceras\obj\Debug\net8.0\Divide y venceras.csproj.CoreCompileInputs.cache
+C:\Users\lolv7\source\repos\Divide y venceras\Divide y venceras\obj\Debug\net8.0\Divide y venceras.sourcelink.json
+C:\Users\lolv7\source\repos\Divide y venceras\Divide y venceras\obj\Debug\net8.0\Divide y venceras.dll
+C:\Users\lolv7\source\repos\Divide y venceras\Divide y venceras\obj\Debug\net8.0\refint\Divide y venceras.dll
+C:\Users\lolv7\source\repos\Divide y venceras\Divide y venceras\obj\Debug\net8.0\Divide y venceras.pdb
+C:\Users\lolv7\source\repos\Divide y venceras\Divide y venceras\obj\Debug\net8.0\Divide y venceras.genruntimeconfig.cache
+C:\Users\lolv7\source\repos\Divide y venceras\Divide y venceras\obj\Debug\net8.0\ref\Divide y venceras.dll
