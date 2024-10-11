@@ -1,0 +1,7 @@
+C:\Users\ianlo\Desktop\binaria\binario\bin\Debug\binario.exe.config
+C:\Users\ianlo\Desktop\binaria\binario\bin\Debug\binario.exe
+C:\Users\ianlo\Desktop\binaria\binario\bin\Debug\binario.pdb
+C:\Users\ianlo\Desktop\binaria\binario\obj\Debug\binario.csproj.AssemblyReference.cache
+C:\Users\ianlo\Desktop\binaria\binario\obj\Debug\binario.csproj.CoreCompileInputs.cache
+C:\Users\ianlo\Desktop\binaria\binario\obj\Debug\binario.exe
+C:\Users\ianlo\Desktop\binaria\binario\obj\Debug\binario.pdb
